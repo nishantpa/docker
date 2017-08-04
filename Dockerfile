@@ -1,4 +1,5 @@
 # Still hits the issue of D-Bus . See EA.CDSandbox for Dockerfiles that have a way around this
+# Based on centos7 systemd info on dockerhub (towards bottom)
 
 FROM local/c7-systemd
 
